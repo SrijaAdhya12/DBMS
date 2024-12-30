@@ -12,6 +12,7 @@
 
 # [Dbms](https://github.com/SrijaAdhya12/DBMS)
 
+- Important SQL Syntax and practice questions
 
 ![line]
 
